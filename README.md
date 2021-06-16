@@ -1,1 +1,1 @@
-# covidPositive - Project 2 
+There is no shortage of online resources for Canadian COVID-19 incidence and mortality data on the internet. We’ve decided instead to highlight two of the more encouraging sets of statistics available: recovery and vaccination.
